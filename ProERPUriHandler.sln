@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProERPUriHandler", "ProERPUriHandler\ProERPUriHandler.csproj", "{0F633A5E-0E25-4EEB-AD21-080B3D57B8BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F633A5E-0E25-4EEB-AD21-080B3D57B8BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F633A5E-0E25-4EEB-AD21-080B3D57B8BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F633A5E-0E25-4EEB-AD21-080B3D57B8BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F633A5E-0E25-4EEB-AD21-080B3D57B8BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CE1C09F-EBE5-494B-8FB1-CEAAB3AA6539}
+	EndGlobalSection
+EndGlobal
